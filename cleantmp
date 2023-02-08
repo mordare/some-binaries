@@ -3,3 +3,5 @@
 echo "Limpando tmp"
 
 sudo rm -rf /tmp/*
+
+echo "Tmp Limpada!"
