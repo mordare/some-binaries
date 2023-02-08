@@ -1,0 +1,5 @@
+#!/bin/sh
+
+echo "Limpando tmp"
+
+sudo rm -rf /tmp/*
